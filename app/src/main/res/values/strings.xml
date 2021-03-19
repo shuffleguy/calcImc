@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NovoImc</string>
+    <string name="calculadora_imc">Calculadora IMC</string>
+    <string name="Calcule">Calcule o seu IMC Abaixo</string>
+    <string name="sua_altura_em_cm_189_cm">Sua altura em cm (189 cm)</string>
+    <string name="seu_peso_em_kg_88_kg">Seu peso em KG (88,0 kg)</string>
+
+</resources>
